@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16ac2a04-0602-4081-81db-fa2c279c09e0" name="Changes" comment="rel">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="16ac2a04-0602-4081-81db-fa2c279c09e0" name="Changes" comment="rel2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +43,7 @@
       <updated>1666521617232</updated>
       <workItem from="1666521619242" duration="752000" />
       <workItem from="1666540490536" duration="220000" />
-      <workItem from="1666554152015" duration="2933000" />
+      <workItem from="1666554152015" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="rel">
       <created>1666556274382</created>
@@ -55,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666556274382</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rel">
+      <created>1666557089505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666557089505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rel2">
+      <created>1666557160522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666557160522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,7 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rel" />
-    <option name="LAST_COMMIT_MESSAGE" value="rel" />
+    <MESSAGE value="rel2" />
+    <option name="LAST_COMMIT_MESSAGE" value="rel2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
