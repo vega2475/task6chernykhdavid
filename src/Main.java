@@ -52,7 +52,7 @@ class Main{
                 sol.nE10++;
             }
 
-            int num = 2 * i + 1;
+            int num = 2 * i + 1;//n
 
 
             quantity = quantity * x * num;
