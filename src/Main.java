@@ -35,7 +35,7 @@ class Main{
 
     public static Solution count(int n, double x, double e) {
         Solution sol = new Solution();
-        sol.exactValue = 1 / Math.sqrt(1 + x);
+        sol.exactValue = 1 / Math.sqrt(1 - Math.pow(x, 2));
 
         double quantity = 1;
 
@@ -53,9 +53,9 @@ class Main{
             }
 
             int num = 2 * i + 1;
-            int d = 2 * i + 2;
 
-            quantity = -quantity * x * num / d ;
+
+            quantity = quantity * x * num;
         }
 
 
