@@ -30,7 +30,7 @@ class Main {
 
     public static Solution count(int n, double x, double e) {
         Solution sol = new Solution();
-        sol.exactValue = 1.0 / Math.sqrt(1.0 + x);
+        sol.exactValue = 1.0 / Math.sqrt(1.0 + Math.pow(x, 2));
         double quantity = 1.0;
 
         for(int i = 0; i <= n || Math.abs(quantity) < e / 10.0; ++i) {
