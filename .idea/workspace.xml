@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16ac2a04-0602-4081-81db-fa2c279c09e0" name="Changes" comment="Realese3.0">
+    <list default="true" id="16ac2a04-0602-4081-81db-fa2c279c09e0" name="Changes" comment="Realese3.1">
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Storage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,6 +57,8 @@
       <workItem from="1666540490536" duration="220000" />
       <workItem from="1666554152015" duration="4096000" />
       <workItem from="1666629913453" duration="1460000" />
+      <workItem from="1666632187734" duration="8091000" />
+      <workItem from="1666685467913" duration="3285000" />
     </task>
     <task id="LOCAL-00001" summary="rel">
       <created>1666556274382</created>
@@ -83,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666630763908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Realese3.1">
+      <created>1666632394715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666632394715</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,17 +124,7 @@
     <MESSAGE value="rel2" />
     <MESSAGE value="rel23" />
     <MESSAGE value="Realese3.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realese3.0" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Realese3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realese3.1" />
   </component>
 </project>
